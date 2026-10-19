@@ -60,10 +60,7 @@ h4{
 .shape{
   position: absolute;
   bottom: -150px;
-
-  background-image
 }
-
 h4:hover {
   font-size:19px;
   background-color:darkblue;
