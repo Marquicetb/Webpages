@@ -6,8 +6,8 @@
 }
 
 body{
-  background-color: #173753;
-  color: #A99068;
+  background-color: #082743;
+  color: #ffeac8;
   line-height: 1.4;
 }
 ul{
@@ -15,7 +15,7 @@ ul{
   margin:px;
   padding:20px;
   overflow:hidden;
-  background:#1D70A2;
+  background:#326787;
   
 }
 
@@ -27,22 +27,22 @@ ul li{
 .my-button {
   display: inline-block;
   padding: 12px 20px 15px;
-  background-color: #2892D7;
+  background-color: #2d9feb;
   color: white;
   text-decoration: none;
   border-radius: 15px;
    font-family: "Times New Roman", Times, serif;
 }
 ul li a:hover {
-  background-color: #00008B;
+  background-color: #000053;
     Border-style:solid;
-  border-color:deep blue;
+  border-color:deep rgb(2, 2, 214);
 }
 
 ul li a{
   
   display: block;
-  color: darkblue; 
+  color: rgb(2, 2, 119); 
   text-align: center;
   padding: 14px 16px;
   Text-decoration:none;
@@ -54,7 +54,7 @@ h4{
   color:navyblue;
   Border-style:solid;
   border-color:deepblue;
-  background-color:#6DAEDB;
+  background-color:#499eda;
    font-family: "Times New Roman", Times, serif;
 }
 .shape{
