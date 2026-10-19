@@ -27,11 +27,16 @@ body {
 }
 
 /* Navigation buttons */
-.nav_bar ul {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  list-style: none;
+.nav_bar h1 {
+  background: linear-gradient(
+    90deg,
+    #ffeac8,
+    #e8c99f,
+    #f9cf8c
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
 }
 
 .my-button {
