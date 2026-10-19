@@ -21,7 +21,11 @@ body {
   padding: 18px 25px;
   background-color: #326787;
 }
-
+.nav_bar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
 .nav_bar h1 {
   color: #ffeac8;
 }
