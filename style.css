@@ -58,33 +58,34 @@ h4{
    font-family: "Times New Roman", Times, serif;
 }
 .shape{
-  postion: absolute;
+  position: absolute;
   bottom: -150px;
 
   background-image
 }
-h4:hover{
+h4:hover {
   font-size:19px;
   background-color:darkblue;
-  color:#A87B28;
+  color:A87B28;
 }
+
 h1{
-  font-family: "Inria Serif", "Inria Serif", Inria Serif;
+  font-family: "Inria", "Inria Serif", Inria Serif;
 }
 .img-gallery{
   display:felx; 
   flex-direction:column;
   gap:20px;
-  max-width:600px;
   padding:20px;
+  max-width:600px;
   margin: 0 auto;
 }
 
 .img-box{
-  display: flex;
-  align-items: center;
-  width: 100%;
-  hight: 200%;
-  object-fit: cover;
-  object-position: top center;
+ display:flex;
+ align-items:center;
+ background-color:#173753;
+ border-radius:8px;
+ overflow:hidden;
+ box-shadow:0 2px 4px rgba(0,0,0,0.1);
 }
